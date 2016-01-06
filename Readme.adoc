@@ -1,0 +1,3 @@
+= Akka Game Backend from scratch
+
+This is the repository that belongs the blog series on http://chumper.github.io
