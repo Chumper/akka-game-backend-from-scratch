@@ -1,5 +1,8 @@
 *.class
 *.log
+*.iml
+
+.idea/
 
 # sbt specific
 .cache
@@ -15,3 +18,6 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+.DS_Store
+
